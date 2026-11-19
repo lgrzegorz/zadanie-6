@@ -1,4 +1,4 @@
-# booking-app-tests
+# zadanie_6
 
 Testy automatyczne aplikacji do rezerwacji wizyt (zadanie rekrutacyjne, zadanie 6).
 
@@ -14,7 +14,7 @@ Aplikacja nie istnieje, więc adresy, endpointy, selektory i dane testowe są um
 ## Struktura projektu
 
 ```
-booking-app-tests/
+zadanie_6/
 ├── api_client/
 │   └── booking_api.py        # klient API: logowanie, wolne terminy, rezerwacje
 ├── data/
