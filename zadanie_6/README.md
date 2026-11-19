@@ -15,8 +15,6 @@ Aplikacja nie istnieje, więc adresy, endpointy, selektory i dane testowe są um
 
 ```
 zadanie_6/
-├── .github/workflows/
-│   └── tests.yml             # pipeline CI (GitHub Actions)
 ├── api_client/
 │   └── booking_api.py        # klient API: logowanie, wolne terminy, rezerwacje
 ├── data/
