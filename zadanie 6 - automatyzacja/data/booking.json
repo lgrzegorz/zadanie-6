@@ -1,0 +1,7 @@
+{
+  "salon_id": 101,
+  "salon_name": "Salon Testowy",
+  "employee": {"id": 7, "name": "Anna"},
+  "service": {"id": 11, "name": "Strzyżenie męskie", "duration_min": 45, "price": 70.0, "price_label": "70,00 zł"},
+  "blik_code": "777123"
+}
