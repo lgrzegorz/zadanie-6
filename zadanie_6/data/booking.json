@@ -1,6 +1,0 @@
-{
-  "salon_id": 101,
-  "employee": {"id": 7, "name": "Anna"},
-  "service": {"id": 11, "name": "Strzyżenie męskie", "price": 70.0, "price_label": "70,00 zł"},
-  "blik_code": "777123"
-}
