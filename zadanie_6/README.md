@@ -48,7 +48,6 @@ zadanie_6/
 - `tests/ui/test_booking.py` - rezerwacja wizyty z płatnością BLIK w sandboxie i sprawdzenie wizyty w historii.
 - `tests/api/test_reservations_api.py` - utworzenie rezerwacji przez endpoint i sprawdzenie, że termin zniknął z wolnych.
 
-Testy oznaczone `smoke` to najważniejsza ścieżka, którą warto uruchamiać po każdym deployu.
 
 ## Uruchomienie
 
